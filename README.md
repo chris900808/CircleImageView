@@ -1,7 +1,7 @@
 # CircleImageView
 Demo picture
 
-![](https://github.com/zhouyongxyz/CircleImageView/blob/master/circleimageview_demo.png)
+![](https://github.com/zhouyongxyz/CircleImageView/raw/master/circleimageview_demo.png)
 
 CircleImageView
 ```xml
