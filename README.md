@@ -1,9 +1,10 @@
 # CircleImageView
-Demo picture
 
-![](https://github.com/zhouyongxyz/CircleImageView/raw/master/circleimageview_demo.png)
+#Demo picture
 
-CircleImageView
+<img src="https://raw.githubusercontent.com/zhouyongxyz/CircleImageView/master/circleimageview_demo.png"/>
+
+#CircleImageView Layout.xml
 ```xml
 <com.example.jerry.libcircleimageview.CircleImageView
         android:id="@+id/image"
@@ -16,7 +17,8 @@ CircleImageView
         android:layout_gravity="center_horizontal" />
  ```       
 
-build.gradle 
+#build.gradle 
+
 ```xml
 dependencies {
     compile 'com.github.zhouyongxyz:CircleImageView:1.0.1'
