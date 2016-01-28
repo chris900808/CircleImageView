@@ -1,4 +1,6 @@
 # CircleImageView
+Demo picture
+![](https://github.com/zhouyongxyz/CircleImageView/circleimageview_demo.png)
 CircleImageView
 ```xml
 <com.example.jerry.libcircleimageview.CircleImageView
